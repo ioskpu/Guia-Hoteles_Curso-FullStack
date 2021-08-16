@@ -1,0 +1,16 @@
+{
+  "name": "clases-git",
+  "version": "1.0.0",
+  "description": "Proyecto node-js curso fullstack",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lrcorales-admin@bitbucket.org/lrcorales/clases-git.git"
+  },
+  "author": "Luis Corales",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/lrcorales/clases-git#readme"
+}
